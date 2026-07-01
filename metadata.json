@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons Launcher",
+  "description": "A formal and elegant frontend interface featuring animated snowflake and balloon transitions with dynamic interactive state controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
