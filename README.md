@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/371c27e2-bf50-4383-919a-5207eab7e0ef
+View the app in AI Studio [here](https://snowflakes-and-balloons-launcher-976258726123.europe-west2.run.app/)
 
 ## Run Locally
 
